@@ -1,0 +1,23 @@
+{
+  "name": "soap-co",
+  "private": true,
+  "description": "A test website with Gatsby",
+  "version": "0.1.0",
+  "author": "Miko Kari",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "keywords": [
+    "none"
+  ],
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmkari/soap-co.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmkari/soap-co/issues"
+  }
+}
