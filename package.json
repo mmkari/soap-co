@@ -11,7 +11,7 @@
     "none"
   ],
   "scripts": {
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d public && rm -rf public"
   },
   "repository": {
     "type": "git",
